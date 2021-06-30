@@ -8,7 +8,7 @@ This assignment was focused on taking an existing marketing web page and making 
 I learned that including multiple css selectors without a comma is basically a way of styling specific elements. It helps skirt around the "for all h1 elements" statements. 
 
 ## Link to web page
-(./images/poindexter-finished-preview.png)
+https://spoindexter1.github.io/homework1-refactor/
 
 ## Image of web page
 (readme image\poindexter-finished-preview.PNG)
