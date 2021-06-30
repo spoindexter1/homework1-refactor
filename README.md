@@ -11,4 +11,5 @@ I learned that including multiple css selectors without a comma is basically a w
 https://spoindexter1.github.io/homework1-refactor/
 
 ## Image of web page
-(readme image\poindexter-finished-preview.PNG)
+![Image of completed web page](./readme-image/poindexter-finished-preview.PNG)
+
